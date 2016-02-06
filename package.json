@@ -1,0 +1,21 @@
+{
+  "name": "daily-timeline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^6.3.26",
+    "babel-core": "^6.4.5",
+    "babel-preset-es2015": "^6.3.13",
+    "cheerio": "^0.20.0",
+    "evernote": "^1.25.82",
+    "express": "^4.13.4",
+    "hogan-express": "^0.5.2"
+  }
+}
